@@ -1,5 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview:
+This analysis gives us a chance to use Machine learning statistical algorithms to make predictions. Jill has asked my help to evaluative and predict credit risk using Machine learning.
 
 ## Results:
 ### Deliverable 1: Using oversampling RandomOverSampler and SMOTE algorithms to resample the data, then use the undersampling ClusterCentroids algorithm.
@@ -36,3 +37,4 @@
 ![image](https://user-images.githubusercontent.com/104685001/189818008-ad92a800-8285-4b88-8bf4-5d17fe714c8e.png)
 
 ## Summary:
+Of all the six models, I would recommend EasyEnsembleClassifer model as it predicted with 92% recall. However with low precision this model has its downside in adding bad accounts to the bank portfolio.
